@@ -1,6 +1,7 @@
 # Diabetes Prediction Project
 
-This project focuses on predicting diabetes using the Pima Indians Diabetes Dataset. The dataset contains medical information about patients, and the goal is to predict whether a patient has diabetes (Outcome = 1) or not (Outcome = 0). The project involves data preprocessing, exploratory data analysis (EDA), outlier handling, model training, evaluation, and comparison.
+This project focuses on predicting diabetes using the [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database). The dataset contains medical information about patients, and the goal is to predict whether a patient has diabetes (Outcome = 1) or not (Outcome = 0). The project involves data preprocessing, exploratory data analysis (EDA), outlier handling, model training, evaluation, and comparison.
+
 
 ## Dataset Description
 
@@ -103,3 +104,8 @@ The Model Comparison Table provides a summary of the performance metrics for eac
 - Experiment with hyperparameter tuning for better model performance.
 - Use advanced techniques like cross-validation and ensemble methods.
 - Deploy the best model as a web application using Flask or Streamlit.
+
+## Contact Us 
+Mail : (ahmed1hamada1shabaan@gmail.com)
+kaggle : (https://www.kaggle.com/ahmedxhamada)
+Linkedin : (www.linkedin.com/in/ahmed-hamadaai)
