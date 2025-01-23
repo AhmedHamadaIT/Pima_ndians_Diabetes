@@ -106,6 +106,6 @@ The Model Comparison Table provides a summary of the performance metrics for eac
 - Deploy the best model as a web application using Flask or Streamlit.
 
 ## Contact Us 
-Mail : (ahmed1hamada1shabaan@gmail.com)
-kaggle : (https://www.kaggle.com/ahmedxhamada)
-Linkedin : (www.linkedin.com/in/ahmed-hamadaai)
+- Mail : (ahmed1hamada1shabaan@gmail.com)
+- kaggle : (https://www.kaggle.com/ahmedxhamada)
+- Linkedin : (www.linkedin.com/in/ahmed-hamadaai)
